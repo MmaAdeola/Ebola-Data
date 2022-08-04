@@ -50,7 +50,7 @@ After the assessment of the dataset, the following steps were taken to clean it 
 
 ## Summary of Findings
 
-> In the distribution of the variables, the number of confirmed cases, number of confirmed deaths, and the number of probable cases majority of the values were between 0-300. Other values were spread across a wide range as high as 8700 in the number of confirmed cases. 
+In the distribution of the variables, the number of confirmed cases, number of confirmed deaths, and the number of probable cases majority of the values were between 0-300. Other values were spread across a wide range as high as 8700 in the number of confirmed cases. 
 
 When number of probable cases and number of confirmed cases were compared, there were incidents when the number of probable cases and number of confirmed cases had close values. An increase in the number of probable cases did not suggest there will be an increase in the number of confirmed cases. On the contrary, when probable case numbers were low, number of confirmed cases spiked and were found to be higher.
 
@@ -58,7 +58,6 @@ There is a generally upward trend in Ebola cases and deaths for the duration of 
 African countries: Nigeria, Liberia, Guinea, Sierra Leone, Senegal and Mali.
 European Countries: The United Kingdom (UK), Italy and Spain.
 North America: The United States of America (USA).
-
 
 The top three worst hit countries were Sierra Leone, Guinea and Liberia. 
 Even though Sierra Leone had the greatest number of confirmed deaths and cases, the severity of the epidemic was the highest in Guinea compared to the other countries. 
