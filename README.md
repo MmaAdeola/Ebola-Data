@@ -2,7 +2,7 @@
 ## by Uchanma Adeola Igbokwe
 
 
-> This dataset is from the World Health Organization and contributions were made by HDX. The dataset contains information for 36 different indicators in 10 countries on the Ebola outbreak from August 2014 to March 2016. The 2014–2016 outbreak in West Africa was the largest Ebola outbreak since the virus was first discovered in 1976. The outbreak started in Guinea and then moved across land borders to Sierra Leone and Liberia. The list of affected countries in the dataset are Guinea, Liberia, Sierra Leone, Nigeria, Senegal, Mali, Spain, the USA, the United Kingdom and Italy. Information in the dataset was last updated on the 10th of November 2019.
+This dataset is from the World Health Organization and contributions were made by HDX. The dataset contains information for 36 different indicators in 10 countries on the Ebola outbreak from August 2014 to March 2016. The 2014–2016 outbreak in West Africa was the largest Ebola outbreak since the virus was first discovered in 1976. The outbreak started in Guinea and then moved across land borders to Sierra Leone and Liberia. The list of affected countries in the dataset are Guinea, Liberia, Sierra Leone, Nigeria, Senegal, Mali, Spain, the USA, the United Kingdom and Italy. Information in the dataset was last updated on the 10th of November 2019.
 
 Out of the 36 indicators, the following are the list of indicators considered during the analysis:
 - Total number of confirmed ebola cases: any suspected or probable case with a positive laboratory result.
