@@ -40,7 +40,7 @@ Ebola vaccines have been created and deployed to help contain the spread of epid
  
 
 
-Summary of data wrangling steps:
+### Summary of data wrangling steps:
 
 After the assessment of the dataset, the following steps were taken to clean it up before exploration was carries out:
 1. The dataset was made tidy by making variables columns and observations as rows. That is long format was changed to the wide format.
@@ -48,7 +48,7 @@ After the assessment of the dataset, the following steps were taken to clean it 
 3. The entries that had Guinea 2 and Liberia 2 were made uniform with other entries for the countries. This was done by removing the '2' and trailing whitespaces.
 4. A new column for case fatality rate was calculated using the number of deaths from the disease and the number of confirmed cases for each day.
 
-## Summary of Findings
+### Summary of Findings
 
 In the distribution of the variables, the number of confirmed cases, number of confirmed deaths, and the number of probable cases majority of the values were between 0-300. Other values were spread across a wide range as high as 8700 in the number of confirmed cases. 
 
@@ -62,7 +62,7 @@ North America: The United States of America (USA).
 The top three worst hit countries were Sierra Leone, Guinea and Liberia. 
 Even though Sierra Leone had the greatest number of confirmed deaths and cases, the severity of the epidemic was the highest in Guinea compared to the other countries. 
 
-## Key Insights:
+### Key Insights:
 
 > There was a very strong positive correlation between the number of confirmed deaths and the number of confirmed cases. It was generally noted that as the number of cases increased, so did the number of deaths. 
 
