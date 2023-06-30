@@ -63,16 +63,15 @@ The top three worst hit countries were Sierra Leone, Guinea and Liberia.
 Even though Sierra Leone had the greatest number of confirmed deaths and cases, the severity of the epidemic was the highest in Guinea compared to the other countries. 
 
 ### Key Insights:
+1. There was a very strong positive correlation between the number of confirmed deaths and the number of confirmed cases. It was generally noted that as the number of cases increased, so did the number of deaths. 
 
-> There was a very strong positive correlation between the number of confirmed deaths and the number of confirmed cases. It was generally noted that as the number of cases increased, so did the number of deaths. 
+2. Sierra Leone had the highest number of confirmed cases and the highest number of confirmed deaths. And in second place was Guinea. These were the two worst hit countries. On the other hand, Italy had the least number of confirmed cases (141) and recorded zero deaths. Next was the United Kingdom with 221 confirmed Ebola cases and zero deaths.  Other countries that recorded zero deaths were Spain and Senegal. 
 
-> Sierra Leone had the highest number of confirmed cases and the highest number of confirmed deaths. And in second place was Guinea. These were the two worst hit countries. On the other hand, Italy had the least number of confirmed cases (141) and recorded zero deaths. Next was the United Kingdom with 221 confirmed Ebola cases and zero deaths.  Other countries that recorded zero deaths were Spain and Senegal. 
+3. It was interesting to find that Senegal was the only African country with zero deaths and the lowest number of confirmed cases (254).
 
-> It was interesting to find that Senegal was the only African country with zero deaths and the lowest number of confirmed cases (254).
+4. The average daily case fatality rate for the duration of the outbreak was 28.7%.
 
-> The average daily case fatality rate for the duration of the outbreak was 28.7%.
-
-> When examining the overall case fatality rate for the period of the epidemic, compared to the other countries, Guinea was the most hit in the outbreak. Guinea's case fatality rate was as high as 61.5%. This might be an indication of the need for personnel and resource support. To prove or disprove this, data on the availability of health personnel, facilities and other necessary resources would have to be collected and analyzed. 
+5. When examining the overall case fatality rate for the period of the epidemic, compared to the other countries, Guinea was the most hit in the outbreak. Guinea's case fatality rate was as high as 61.5%. This might be an indication of the need for personnel and resource support. To prove or disprove this, data on the availability of health personnel, facilities and other necessary resources would have to be collected and analyzed. 
 Despite having the highest number of cases and verified deaths, Sierra Leone's case fatality rate (39.1%) was lower than that of Guinea. 
 The third highest case fatality rate would be expected to be in Liberia, yet this is not the case. The third-highest case fatality rate (36.9%) was in Nigeria.
 
